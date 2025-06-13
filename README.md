@@ -31,6 +31,8 @@ Run the program:
 
 ```
 ./hello_world
+```
+
 🎯 Learning Objectives
 Understand Fortran syntax and structure
 
